@@ -5,7 +5,7 @@
 
 * İlk olarak, Windows'un güncel olup olmadığını kontrol edin. Güncel değilse, güncelleyin.
 - First, check if windows is up to date. If it's out of date, update it.
-
+## ===============================<br>
 ## (windows performance mode) windows'u performans moda alın 
 
 * Oyuncu değilseniz ve animasyon, efekt gibi özellikleri önemsemiyorsanız bu özellikleri kapatın.
