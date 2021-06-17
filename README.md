@@ -17,9 +17,9 @@
 
 ![performance](https://github.com/OgulcanKacarr/WindowsAdvancedSystemandNetworkAcceleration/blob/main/Images/performanceControl.png)<br>
 
- [+] Etkinleştirdikten sonra metinler bozulabilir. Metinleri düzeltmek için; 
-  * denetim masası > Görünüm ve kişiselleştirme > yazı tipi > yazı tipini temizle
- [-] After activating it, the texts may be corrupted. To correct the texts;
+ [+] Etkinleştirdikten sonra metinler bozulabilir. Metinleri düzeltmek için; <br>
+  * denetim masası > Görünüm ve kişiselleştirme > yazı tipi > yazı tipini temizle<br>
+ [-] After activating it, the texts may be corrupted. To correct the texts;<br>
   * control panel > Appearance and personalization > font > clear type
  
 
