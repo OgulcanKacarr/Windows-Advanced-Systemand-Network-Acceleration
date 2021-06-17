@@ -19,9 +19,9 @@
 
  [+] Etkinleştirdikten sonra metinler bozulabilir. Metinleri düzeltmek için; <br>
  [+] After activating it, the texts may be corrupted. To correct the texts;<br>
-  * denetim masası > Görünüm ve kişiselleştirme > yazı tipi > yazı tipini temizle<br>
-  * control panel > Appearance and personalization > font > clear type
- 
+  * denetim masası > Görünüm ve kişiselleştirme > yazı tipi > ClearType metnini ayarla<br>
+  * control panel > Appearance and personalization > font > clear type<br>
+ ![clearType](https://github.com/OgulcanKacarr/WindowsAdvancedSystemandNetworkAcceleration/blob/main/Images/clearType.png)<br>
 
 
 
