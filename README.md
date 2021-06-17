@@ -56,4 +56,4 @@ Open cmd and enter the command "cipher /w:c". So your c disk will get rid of thi
 
  ![cmd](https://github.com/OgulcanKacarr/WindowsAdvancedSystemandNetworkAcceleration/blob/main/Images/cmd.png)<br><br>
 
-
+## ===============================<br>
