@@ -41,5 +41,12 @@ windwos + R (open run) and type temp and %temp%. Then delete everything here. if
  ![temp](https://github.com/OgulcanKacarr/WindowsAdvancedSystemandNetworkAcceleration/blob/main/Images/temp.png)<br><br>
  ![ttemp](https://github.com/OgulcanKacarr/WindowsAdvancedSystemandNetworkAcceleration/blob/main/Images/ttemp.png)<br><br>
  ![deltemp](https://github.com/OgulcanKacarr/WindowsAdvancedSystemandNetworkAcceleration/blob/main/Images/deltemp.png)<br><br>
+ 
+ * Ardından bilgisayarı açın ve sabit disk özelliklerini açın. Ardından diske tıklayın. Tüm kutuları seçin ve diski temizleyin
+ * Then open computer and name hardisk properties. Then click  disk. Select all the boxes and clean the disk
+
+ ![properties](https://github.com/OgulcanKacarr/WindowsAdvancedSystemandNetworkAcceleration/blob/main/Images/propertiesDisk.png)<br><br>
+ ![allselect](https://github.com/OgulcanKacarr/WindowsAdvancedSystemandNetworkAcceleration/blob/main/Images/allselect.png)<br><br>
+
 
 
