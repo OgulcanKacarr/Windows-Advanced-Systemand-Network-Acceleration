@@ -21,11 +21,16 @@
  [+] After activating it, the texts may be corrupted. To correct the texts;<br>
   * denetim masası > Görünüm ve kişiselleştirme > yazı tipi > ClearType metnini ayarla<br>
   * control panel > Appearance and personalization > font > clear type <br> <br>
- ![clearType](https://github.com/OgulcanKacarr/WindowsAdvancedSystemandNetworkAcceleration/blob/main/Images/clearType.png)<br>
+ ![clearType](https://github.com/OgulcanKacarr/WindowsAdvancedSystemandNetworkAcceleration/blob/main/Images/clearType.png)<br><br>
 
 ## (Background image removal) Arkaplan resmini kaldırma
 
 * Bir masaüstü arka plan resmi kullanıyorsanız, onu kullanmanıza gerek yoktur. Çünkü masaüstünüzü başka bir yerden açmak istediğinizde, pencereler açmak istediğiniz görüntüyü bulduktan sonra size masaüstünü gösterecektir. Bu gereksiz ve performansı düşüren bir süreçtir. Sadece siyah arka plan kullan
 
 * If you are using a desktop background image, you don't need to use it. Because when you want to open your desktop from another place, windows will show you the desktop after finding the image you want to open. This is an unnecessary and performance-degrading process. Just use black background
+
+## (Data cleaning) Veri Temizleme
+
+* Bilgisayarınızdaki verileri düzenli olarak temizleyin.
+* Clean data regularly on your computer.
 
