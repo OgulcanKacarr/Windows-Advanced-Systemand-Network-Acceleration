@@ -11,5 +11,5 @@
 * Oyuncu değilseniz ve animasyon, efekt gibi özellikleri önemsemiyorsanız bu özellikleri kapatın.
 - If you are not a gamer and you don't care about features like animations, effects, turn these features off.
 
-Bu bilgisayar > özellikler > gelişmiş sistem özellikleri > performans > en iyi performans için ayarla
-This computer > properties > advanced system properties > performance > adjust for best performance
+ [+] Bu bilgisayar > özellikler > gelişmiş sistem özellikleri > performans > en iyi performans için ayarla
+ [-] This computer > properties > advanced system properties > performance > adjust for best performance
