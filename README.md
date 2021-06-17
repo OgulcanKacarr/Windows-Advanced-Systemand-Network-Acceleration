@@ -19,7 +19,7 @@
 
  [+] Etkinleştirdikten sonra metinler bozulabilir. Metinleri düzeltmek için; <br>
   * denetim masası > Görünüm ve kişiselleştirme > yazı tipi > yazı tipini temizle<br>
- [-] After activating it, the texts may be corrupted. To correct the texts;<br>
+ <br>[+] After activating it, the texts may be corrupted. To correct the texts;<br>
   * control panel > Appearance and personalization > font > clear type
  
 
