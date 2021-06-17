@@ -34,3 +34,12 @@
 * Bilgisayarınızdaki verileri düzenli olarak temizleyin.
 * Clean data regularly on your computer.
 
+windwos + R (çalıştırı açın) ve temp ve %temp% yazın. Ardından buradaki her şeyi silin. Silinmeyenleri atlayabilirsiniz.
+windwos + R (open run) and type temp and %temp%. Then delete everything here. if there are files that are not deleted, you can skip them.
+
+
+ ![temp](https://github.com/OgulcanKacarr/WindowsAdvancedSystemandNetworkAcceleration/blob/main/Images/temp.png)<br><br>
+ ![ttemp](https://github.com/OgulcanKacarr/WindowsAdvancedSystemandNetworkAcceleration/blob/main/Images/ttemp.png)<br><br>
+ ![deltemp](https://github.com/OgulcanKacarr/WindowsAdvancedSystemandNetworkAcceleration/blob/main/Images/deltemp.png)<br><br>
+
+
