@@ -51,7 +51,7 @@ windwos + R (open run) and type temp and %temp%. Then delete everything here. if
 * Bilgisayarda "yazılabilir" dosyaları temizleme;
 * Cleaning files that are "writable" on the computer;
 
-Cmd'yi açın ve "cipher /w:c" komutunu girin. Böylece c diskiniz bu durumdan kurtulacaktır.
+Cmd'yi açın ve "cipher /w:c" komutunu girin. Böylece c diskiniz bu durumdan kurtulacaktır.<br>
 Open cmd and enter the command "cipher /w:c". So your c disk will get rid of this situation.
 
  ![cmd](https://github.com/OgulcanKacarr/WindowsAdvancedSystemandNetworkAcceleration/blob/main/Images/cmd.png)<br><br>
