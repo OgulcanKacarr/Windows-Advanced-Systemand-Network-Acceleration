@@ -13,3 +13,6 @@
 
  [+] Bu bilgisayar > özellikler > gelişmiş sistem özellikleri > performans > en iyi performans için ayarla <br>
  [-] This computer > properties > advanced system properties > performance > adjust for best performance
+
+
+![performance](https://github.com/OgulcanKacarr/WindowsAdvancedSystemandNetworkAcceleration/blob/main/Images/performanceControl.png)
