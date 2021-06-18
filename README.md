@@ -102,6 +102,8 @@ Network performance on computers is limited. We do not get full performance for 
 * keep adding the values in the pictures. <br>
 * ![value5](https://github.com/OgulcanKacarr/WindowsAdvancedSystemandNetworkAcceleration/blob/main/Images/value5.png)<br><br>
 * ![value6](https://github.com/OgulcanKacarr/WindowsAdvancedSystemandNetworkAcceleration/blob/main/Images/value6.png)<br><br>
+* ![value5.1](https://github.com/OgulcanKacarr/WindowsAdvancedSystemandNetworkAcceleration/blob/main/Images/value16.png)<br><br>
+* ![value6.1](https://github.com/OgulcanKacarr/WindowsAdvancedSystemandNetworkAcceleration/blob/main/Images/value17.png)<br><br>
 * şimdi komut satırını açın ve resimlerde gördüğünüz komutları girin <br>
 * now open the command line and enter the commands you see in the pictures <br>
 * "netsh int tcp set global dca=enable"
