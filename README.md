@@ -128,6 +128,9 @@ Network performance on computers is limited. We do not get full performance for 
 * burada "Psched" adında bir klasör oluşturun. <br>
 * create a folder named "Psched" here. <br>
 * ![psc](https://github.com/OgulcanKacarr/WindowsAdvancedSystemandNetworkAcceleration/blob/main/Images/psc.png)<br><br>
+* resimlerdeki değerleri eklemeye devam edin. <br>
+* keep adding the values in the pictures. <br>
+* ![psc2](https://github.com/OgulcanKacarr/WindowsAdvancedSystemandNetworkAcceleration/blob/main/Images/psc2.png)<br><br>
 
 
 
