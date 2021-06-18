@@ -208,13 +208,20 @@ Yes, let's talk about security-related transactions. <br>
 
 * Tekrar Windows + R tuşlarına basarak çalıştır' açalım ve regedit yazalım. <br>
 * Let's open run by pressing Windows + R keys again and type regedit. <br>
-* Şimdi öncelikle patchfile diye bir şeyden bahsedeyim. patchfile aslında bu; RAM'den sarkan verilerin toplandığı yer diyebiliriz. Diğer bir deyişle, RAM'de yer kalmadığında veya çok meşgul olduğunda veriler yama dosyasına gider. Nitekim RAM'deki bazı uygulamaların hassas bilgileri yani şifreleri de bu dosyaya gider. Bu nedenle, bu verileri şifrelememiz gerekiyor. Aksi takdirde önemli ve hassas bilgilerimiz hacklenebilir. Bu yöntem adli bilişim sistemlerinde de kullanılmaktadır. Lafı fazla uzatmadan yama dosyamızı şifreleyelim. <br>
-* Now, first of all, let me talk about something called patchfile. patchfile is actually this; We can say that it is the place where the data hanging from the RAM is collected. In other words, data goes to the patch file when RAM runs out or is too busy. As a matter of fact, sensitive information, namely passwords, of some applications in RAM also goes to this file. Therefore, we need to encrypt this data. Otherwise, our important and sensitive information can be hacked. This method is also used in forensic information systems. Without further ado, let's encrypt our patch file. <br> 
+* Şimdi öncelikle pagefile diye bir şeyden bahsedeyim. pagefile aslında bu; RAM'den sarkan verilerin toplandığı yer diyebiliriz. Diğer bir deyişle, RAM'de yer kalmadığında veya çok meşgul olduğunda veriler yama dosyasına gider. Nitekim RAM'deki bazı uygulamaların hassas bilgileri yani şifreleri de bu dosyaya gider. Bu nedenle, bu verileri şifrelememiz gerekiyor. Aksi takdirde önemli ve hassas bilgilerimiz hacklenebilir. Bu yöntem adli bilişim sistemlerinde de kullanılmaktadır. Lafı fazla uzatmadan yama dosyamızı şifreleyelim. <br>
+* Now, first of all, let me talk about something called pagefile. pagefile is actually this; We can say that it is the place where the data hanging from the RAM is collected. In other words, data goes to the patch file when RAM runs out or is too busy. As a matter of fact, sensitive information, namely passwords, of some applications in RAM also goes to this file. Therefore, we need to encrypt this data. Otherwise, our important and sensitive information can be hacked. This method is also used in forensic information systems. Without further ado, let's encrypt our patch file. <br> 
 * şimdi bu konuma gidelim >>> Bilgisayar\HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Policies <br>
 * now let's go to this location >>> Computer\HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Policies  <br>
 * ![v1](https://github.com/OgulcanKacarr/WindowsAdvancedSystemandNetworkAcceleration/blob/main/Images/v1.png)<br><br>
 * NtfsEncryptPagingFile dosyasını bu şekilde ekleyip değerini 1 olarak belirlediğimizde artık şifreleme özelliğini açmış oluyoruz. Böylece uzaktan müdahalelerde daha fazla korunacağız. <br>
 * When we add the NtfsEncryptPagingFile file in this way and set its value to 1, we now have the encrypt feature turned on. Thus, we will be more protected in remote interventions. <br>
+* Şimdi başka bir işlem olarak bilgisayarımız kapandığında bu şifreleme dosyasının silinmesini sağlayalım. <br>
+* Now, as another process, let's ensure that this encrypt file is deleted when our computer turns off. <br>
+* şimdi bu konuma gidelim >>> Bilgisayar\HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Control\Session Manager\Memory Management <br>
+* now let's go to this location >>> Computer\HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Control\Session Manager\Memory Management <br>
+* resimlerdeki değerleri eklemeye devam edin. <br>
+* keep adding the values in the pictures. <br>
+* ![v2](https://github.com/OgulcanKacarr/WindowsAdvancedSystemandNetworkAcceleration/blob/main/Images/v2.png)<br><br>
 
 
 
