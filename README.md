@@ -73,6 +73,11 @@ Network performance on computers is limited. We do not get full performance for 
 *  First of all, let's take a backup of our regedit files to take precautions. <br>
 * Dosya > ver > masaüstüne kaydet <br>
 * File > export > save to desktop <br>
-* *  ![backup](https://github.com/OgulcanKacarr/WindowsAdvancedSystemandNetworkAcceleration/blob/main/Images/backup.png)<br><br>
+* ![backup](https://github.com/OgulcanKacarr/WindowsAdvancedSystemandNetworkAcceleration/blob/main/Images/backup.png)<br><br>
 * ardından bu konuma gidin >>>> Bilgisayar\HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\Tcpip\Parameters <br>
 * then navigate to this location >>>> Computer\HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\Tcpip\Parameters <br>
+* ![regedit1](https://github.com/OgulcanKacarr/WindowsAdvancedSystemandNetworkAcceleration/blob/main/Images/regedeti1.png)<br><br>
+* Buraya sağ tıklayarak bir "dword32" değeri oluşturalım. <br>
+* Let's create a "dword32" value by right-clicking here. <br>
+* ![dword32](https://github.com/OgulcanKacarr/WindowsAdvancedSystemandNetworkAcceleration/blob/main/Images/dword32.png)<br><br>
+
