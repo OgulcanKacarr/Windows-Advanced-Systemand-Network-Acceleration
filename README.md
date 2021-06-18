@@ -194,3 +194,6 @@ We solved the network, now let's do the same things to our system. In our system
 * resimdeki işlemleri sisteminize göre en yüksek yapın ve bilgisayarınızı yeniden başlatın <br>
 * make the processes in the picture the highest according to your system and restart your computer <br>
 * ![newValue8](https://github.com/OgulcanKacarr/WindowsAdvancedSystemandNetworkAcceleration/blob/main/Images/newValue8.png)<br><br>
+* şimdi yeni bir komut satırı açın ve bu komutu girin >>> Rundll32.exe advapi32.dll.ProcessIdleTasks <br>
+* now open a new command line and enter this command >>> Rundll32.exe advapi32.dll.ProcessIdleTasks <br>
+* ![newValue9](https://github.com/OgulcanKacarr/WindowsAdvancedSystemandNetworkAcceleration/blob/main/Images/newValue9.png)<br><br>
