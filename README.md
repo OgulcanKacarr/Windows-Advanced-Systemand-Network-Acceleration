@@ -91,6 +91,10 @@ Network performance on computers is limited. We do not get full performance for 
 * ![value4.3](https://github.com/OgulcanKacarr/WindowsAdvancedSystemandNetworkAcceleration/blob/main/Images/value10.png)<br><br>
 * ![value4.4](https://github.com/OgulcanKacarr/WindowsAdvancedSystemandNetworkAcceleration/blob/main/Images/value11.png)<br><br>
 * ![value4.5](https://github.com/OgulcanKacarr/WindowsAdvancedSystemandNetworkAcceleration/blob/main/Images/value9.png)<br><br>
+*  ![value4.6](https://github.com/OgulcanKacarr/WindowsAdvancedSystemandNetworkAcceleration/blob/main/Images/value12.png)<br><br>
+* ![value4.7](https://github.com/OgulcanKacarr/WindowsAdvancedSystemandNetworkAcceleration/blob/main/Images/value13.png)<br><br>
+* ![value4.8](https://github.com/OgulcanKacarr/WindowsAdvancedSystemandNetworkAcceleration/blob/main/Images/value14.png)<br><br>
+* ![value4.9](https://github.com/OgulcanKacarr/WindowsAdvancedSystemandNetworkAcceleration/blob/main/Images/value15.png)<br><br>
 * Şimdi "interfaces" sekmesine gidelim. Burada ip adresinizi gösteren bölümü bulun. <br>
 * Now let's go to the "interfaces" tab. Find the section that shows your ip address here. <br>
 * ![interfaces](https://github.com/OgulcanKacarr/WindowsAdvancedSystemandNetworkAcceleration/blob/main/Images/interfaces.png)<br><br>
@@ -104,6 +108,8 @@ Network performance on computers is limited. We do not get full performance for 
 * ![cmd1](https://github.com/OgulcanKacarr/WindowsAdvancedSystemandNetworkAcceleration/blob/main/Images/comman1.png)<br><br>
 * "netsh int tcp set global netdma=enable"
 * ![cmd2](https://github.com/OgulcanKacarr/WindowsAdvancedSystemandNetworkAcceleration/blob/main/Images/command2.png)<br><br>
+* "netsh int tcp set global ecncapability=disabled"
+* ![cmd3](https://github.com/OgulcanKacarr/WindowsAdvancedSystemandNetworkAcceleration/blob/main/Images/command4.png)<br><br>
 
 
 
