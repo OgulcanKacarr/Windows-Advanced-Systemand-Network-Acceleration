@@ -131,6 +131,15 @@ Network performance on computers is limited. We do not get full performance for 
 * resimlerdeki değerleri eklemeye devam edin. <br>
 * keep adding the values in the pictures. <br>
 * ![psc2](https://github.com/OgulcanKacarr/WindowsAdvancedSystemandNetworkAcceleration/blob/main/Images/psc2.png)<br><br>
+* şimdi bu konuma gidin >>> Bilgisayar\HMAKEY_CHINE\SYSTEM\CurrentControlSet\Services\Tcp <br>
+* now go to this location >>> Computer\HMAKEY_CHINE\SYSTEM\CurrentControlSet\Services\Tcp <br> 
+* burada "QoS" adında bir klasör oluşturun. <br>
+* create a folder named "QoS" here. <br>
+* ![tcp1](https://github.com/OgulcanKacarr/WindowsAdvancedSystemandNetworkAcceleration/blob/main/Images/tcp1.png)<br><br>
+* resimlerdeki değerleri eklemeye devam edin. <br>
+* keep adding the values in the pictures. <br>
+* ![tcp2](https://github.com/OgulcanKacarr/WindowsAdvancedSystemandNetworkAcceleration/blob/main/Images/tcp2.png)<br><br>
+
 
 
 
