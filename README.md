@@ -205,7 +205,7 @@ We solved the network, now let's do the same things to our system. In our system
 # (Advanced security) İleri seviye güvenlik
 Evet, biraz da güvenlikle ilgili işlemlerden bahsedelim <br>
 Yes, let's talk about security-related transactions. <br>
-# PAGEFILE <br>
+## PAGEFILE <br>
 * Tekrar Windows + R tuşlarına basarak çalıştır' açalım ve regedit yazalım. <br>
 * Let's open run by pressing Windows + R keys again and type regedit. <br>
 * Şimdi öncelikle pagefile diye bir şeyden bahsedeyim. pagefile aslında bu; RAM'den sarkan verilerin toplandığı yer diyebiliriz. Diğer bir deyişle, RAM'de yer kalmadığında veya çok meşgul olduğunda veriler yama dosyasına gider. Nitekim RAM'deki bazı uygulamaların hassas bilgileri yani şifreleri de bu dosyaya gider. Bu nedenle, bu verileri şifrelememiz gerekiyor. Aksi takdirde önemli ve hassas bilgilerimiz hacklenebilir. Bu yöntem adli bilişim sistemlerinde de kullanılmaktadır. Lafı fazla uzatmadan yama dosyamızı şifreleyelim. <br>
@@ -222,17 +222,28 @@ Yes, let's talk about security-related transactions. <br>
 * resimlerdeki değerleri eklemeye devam edin. <br>
 * keep adding the values in the pictures. <br>
 * ![v2](https://github.com/OgulcanKacarr/WindowsAdvancedSystemandNetworkAcceleration/blob/main/Images/v2.png)<br><br>
-# SHARED FOLDERS <br>
+## SHARED FOLDERS <br>
 * şimdi bu konuma gidelim >>> Bilgisayar\HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\LanmanServer\Parameters <br>
 * now let's go to this location >>> Computer\HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\LanmanServer\Parameters <br>
 * resimlerdeki değerleri eklemeye devam edin. <br>
 * keep adding the values in the pictures. <br>
 * ![v3](https://github.com/OgulcanKacarr/WindowsAdvancedSystemandNetworkAcceleration/blob/main/Images/v3.png)<br><br>
-# REMOTE ACCESS DISABLE <br>
+## REMOTE ACCESS DISABLE <br>
 * şimdi bu konuma gidelim >>> Bilgisayar\HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\RemoteRegistry <br>
 * now let's go to this location >>> Computer\HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\RemoteRegistry <br>
 * resimlerdeki değerleri eklemeye devam edin. <br>
 * keep adding the values in the pictures. <br>
 * ![v3](https://github.com/OgulcanKacarr/WindowsAdvancedSystemandNetworkAcceleration/blob/main/Images/v4.png)<br><br>
-
+## ===============================<br>
+# (windows firewall) windows güvenlik duvarı
+Şimdi Windows güvenlik duvarı hakkında bazı şeyler yapalım. <br>
+Now let's do some things about Windows firewall. <br> 
+* Şimdi önce komut satırını açalım ve "wf.msc" yazarak firewall'ı açalım. <br>
+* Now let's open the command line first and open the firewall by typing "wf.msc". <br>
+* Bize yapılacak dahili ve harici ping paketlerini bloklayalım. <br>
+* Let's block the local and public ping packets that will be made to us. <br>
+* ![vf1](https://github.com/OgulcanKacarr/WindowsAdvancedSystemandNetworkAcceleration/blob/main/Images/wf1.png)<br><br>
+* ![vf2](https://github.com/OgulcanKacarr/WindowsAdvancedSystemandNetworkAcceleration/blob/main/Images/wf2.png)<br><br>
+* ![vf3](https://github.com/OgulcanKacarr/WindowsAdvancedSystemandNetworkAcceleration/blob/main/Images/wf3.png)<br><br>
+* ![vf4](https://github.com/OgulcanKacarr/WindowsAdvancedSystemandNetworkAcceleration/blob/main/Images/wf4.png)<br><br>
 
