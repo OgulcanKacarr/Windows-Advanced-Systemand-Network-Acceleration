@@ -80,4 +80,8 @@ Network performance on computers is limited. We do not get full performance for 
 * Buraya sağ tıklayarak bir "dword32" değeri oluşturalım. <br>
 * Let's create a "dword32" value by right-clicking here. <br>
 * ![dword32](https://github.com/OgulcanKacarr/WindowsAdvancedSystemandNetworkAcceleration/blob/main/Images/dword32.png)<br><br>
+* Şimdi bu şekilde gösterdiğim her şeyi resimlerdeki gibi ekleyin. <br>
+* Now add everything I have shown in this way as in the images. <br>
+* ![value1](https://github.com/OgulcanKacarr/WindowsAdvancedSystemandNetworkAcceleration/blob/main/Images/value1.png)<br><br>
+
 
