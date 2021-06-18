@@ -58,3 +58,14 @@ Open cmd and enter the command "cipher /w:c". So your c disk will get rid of thi
  ![cmd](https://github.com/OgulcanKacarr/WindowsAdvancedSystemandNetworkAcceleration/blob/main/Images/cmd.png)<br><br>
 
 ## ===============================<br>
+# İleri Seviye Network Hızlandırma
+# Advanced network acceleration
+## ===============================<br>
+
+Bilgisayarlarda ağ performansı sınırlıdır. Hiçbir işletim sisteminde ağ ortamı için tam performans alamıyoruz. Bunun temel nedeni RFC beyanlarına uymaktır. Başka bir deyişle, dünya çapında ağ hakkında yapılan yorumları değerlendirerek karar verilen bazı ifadeler vardır ve bilgisayarlar da bu açıklamada alınan kararları uygular. Bu durum ağlarda tam performans almamızı kısıtlıyor. Başka bir deyişle, RFC her zaman performanstan çok kararlılığı vurgular. Başka bir deyişle, RFC'nin her şeyin hızlı olmasını her şeyin yolunda olmasını tercih ettiğini söyleyebiliriz. Windows, yakında yapacağımız eylemleri önerir. Ancak, bunları varsayılan olarak uygulamaz. Bunun nedeni, az önce söylendiği gibi RFC kararlarına bağlı kalmasıdır. <br>
+
+Network performance on computers is limited. We do not get full performance for network environment in any operating system. The main reason for this is to comply with the RFC declarations. In other words, there are some statements that are decided by evaluating the comments made about the world-wide network, and computers also implement the decisions taken in this statement. This situation limits us to get full performance on networks. In other words, RFC always emphasizes stability over performance. In other words, we can say that the RFC preferred everything to be fine over everything being fast. Windows itself suggests the actions that we will do soon. However, it does not implement them by default. The reason for this is that it adheres to RFC decisions, as it has just been said. <br>
+
+* şimdi windows + R yaparak "run"u açalım ve "regedit" yazalım <br>
+* now let's open "run" by doing windows + R, and type "regedit" <br>
+*  ![regedit](https://github.com/OgulcanKacarr/WindowsAdvancedSystemandNetworkAcceleration/blob/main/Images/regedit.png)<br><br>
