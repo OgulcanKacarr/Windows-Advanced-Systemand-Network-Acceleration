@@ -83,5 +83,8 @@ Network performance on computers is limited. We do not get full performance for 
 * Şimdi bu şekilde gösterdiğim her şeyi resimlerdeki gibi ekleyin. <br>
 * Now add everything I have shown in this way as in the images. <br>
 * ![value1](https://github.com/OgulcanKacarr/WindowsAdvancedSystemandNetworkAcceleration/blob/main/Images/value1.png)<br><br>
+* ![value2](https://github.com/OgulcanKacarr/WindowsAdvancedSystemandNetworkAcceleration/blob/main/Images/value2.png)<br><br>
+* ![value3](https://github.com/OgulcanKacarr/WindowsAdvancedSystemandNetworkAcceleration/blob/main/Images/value3.png)<br><br>
+* ![value4](https://github.com/OgulcanKacarr/WindowsAdvancedSystemandNetworkAcceleration/blob/main/Images/value4.png)<br><br>
 
 
