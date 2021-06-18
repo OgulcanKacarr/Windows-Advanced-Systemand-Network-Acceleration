@@ -74,3 +74,5 @@ Network performance on computers is limited. We do not get full performance for 
 * Dosya > ver > masaüstüne kaydet <br>
 * File > export > save to desktop <br>
 * *  ![backup](https://github.com/OgulcanKacarr/WindowsAdvancedSystemandNetworkAcceleration/blob/main/Images/backup.png)<br><br>
+* ardından bu konuma gidin >>>> Bilgisayar\HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\Tcpip\Parameters <br>
+* then navigate to this location >>>> Computer\HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\Tcpip\Parameters <br>
