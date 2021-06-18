@@ -112,6 +112,8 @@ Network performance on computers is limited. We do not get full performance for 
 * ![cmd2](https://github.com/OgulcanKacarr/WindowsAdvancedSystemandNetworkAcceleration/blob/main/Images/command2.png)<br><br>
 * "netsh int tcp set global ecncapability=disabled"
 * ![cmd3](https://github.com/OgulcanKacarr/WindowsAdvancedSystemandNetworkAcceleration/blob/main/Images/command4.png)<br><br>
+* "netsh int tcp set supplemental custom congestionprovider=ctcp"
+* ![cmd4](https://github.com/OgulcanKacarr/WindowsAdvancedSystemandNetworkAcceleration/blob/main/Images/command5.png)<br><br>
 
 
 
