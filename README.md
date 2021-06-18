@@ -123,7 +123,11 @@ Network performance on computers is limited. We do not get full performance for 
 * ![dns2](https://github.com/OgulcanKacarr/WindowsAdvancedSystemandNetworkAcceleration/blob/main/Images/dns2.png)<br><br>
 * ![dns3](https://github.com/OgulcanKacarr/WindowsAdvancedSystemandNetworkAcceleration/blob/main/Images/dns3.png)<br><br>
 * ![dns4](https://github.com/OgulcanKacarr/WindowsAdvancedSystemandNetworkAcceleration/blob/main/Images/dns4.png)<br><br>
-* 
+* şimdi bu konuma gidin > Bilgisayar\HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft\Windows\ <br>
+* now navigate to this location > Computer\HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft\Windows\ <br>
+* burada "Psched" adında bir klasör oluşturun. <br>
+* create a folder named "Psched" here. <br>
+* ![psc](https://github.com/OgulcanKacarr/WindowsAdvancedSystemandNetworkAcceleration/blob/main/Images/psc.png)<br><br>
 
 
 
