@@ -154,6 +154,10 @@ Ve evet, hepsi bu. Artık ağınız diğer bilgisayarlardan daha hızlı.
 And yes, that's all. Now your network has more speed than other computers.
 ## ===============================<br>
 
+# (System Acceleration) Sistem Hızlandırma
+
+Ağı çözdük, şimdi aynı şeyleri sistemimize yapalım. Bizim sistemimizde de aynı nedenlerle kısıtlı geliyor. Şimdi bu kısıtlamaları kaldıracağız. O halde tekrar Windows + R tuşlarına basarak çalıştırmayı açalım ve regedit yazalım. <br>
+We solved the network, now let's do the same things to our system. In our system, it comes restricted for the same reasons. We will now remove these restrictions. So let's open run by pressing the Windows + R key again and type regedit. <br>
 
 
 
