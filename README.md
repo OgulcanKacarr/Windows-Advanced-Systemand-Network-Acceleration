@@ -114,6 +114,17 @@ Network performance on computers is limited. We do not get full performance for 
 * ![cmd3](https://github.com/OgulcanKacarr/WindowsAdvancedSystemandNetworkAcceleration/blob/main/Images/command4.png)<br><br>
 * "netsh int tcp set supplemental custom congestionprovider=ctcp"
 * ![cmd4](https://github.com/OgulcanKacarr/WindowsAdvancedSystemandNetworkAcceleration/blob/main/Images/command5.png)<br><br>
+* şimdi bu konuma gidin > Bilgisayar\HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\Tcpip\ServiceProvider <br>
+* now go to this location > Computer\HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\Tcpip\ServiceProvider <br>
+* ![cmd4](https://github.com/OgulcanKacarr/WindowsAdvancedSystemandNetworkAcceleration/blob/main/Images/dnss.png)<br><br>
+* resimlerdeki değerleri eklemeye devam edin. <br>
+* keep adding the values in the pictures. <br>
+* ![dns1](https://github.com/OgulcanKacarr/WindowsAdvancedSystemandNetworkAcceleration/blob/main/Images/dns1.png)<br><br>
+* ![dns2](https://github.com/OgulcanKacarr/WindowsAdvancedSystemandNetworkAcceleration/blob/main/Images/dns2.png)<br><br>
+* ![dns3](https://github.com/OgulcanKacarr/WindowsAdvancedSystemandNetworkAcceleration/blob/main/Images/dns3.png)<br><br>
+* ![dns4](https://github.com/OgulcanKacarr/WindowsAdvancedSystemandNetworkAcceleration/blob/main/Images/dns4.png)<br><br>
+* 
+
 
 
 
