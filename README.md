@@ -188,3 +188,6 @@ We solved the network, now let's do the same things to our system. In our system
 * resimlerdeki değerleri eklemeye devam edin. <br>
 * keep adding the values in the pictures. <br>
 * ![newValue6](https://github.com/OgulcanKacarr/WindowsAdvancedSystemandNetworkAcceleration/blob/main/Images/newValue6.png)<br><br>
+* Şimdi komut satırını açalım ve "msconfig" yazalım. <br>
+* Now let's open the command line and type "msconfig" <br>
+* ![newValue7](https://github.com/OgulcanKacarr/WindowsAdvancedSystemandNetworkAcceleration/blob/main/Images/newValue7.png)<br><br>
