@@ -201,4 +201,14 @@ We solved the network, now let's do the same things to our system. In our system
 ## ===============================<br>
 ## evet, sistemimiz artık hem network hem de sistemsel olarak daha hızlı çalışacak. <br>
 ## yes, our system will now perform faster both network and systemically.
+## ===============================<br>
+# (Advanced security) İleri seviye güvenlik
+
+* Tekrar Windows + R tuşlarına basarak çalıştır' açalım ve regedit yazalım. <br>
+* Let's open run by pressing Windows + R keys again and type regedit. <br>
+* 
+* şimdi bu konuma gidelim >>> Bilgisayar\HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Policies <br>
+* now let's go to this location >>> Computer\HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Policies  <br>
+* ![v1](https://github.com/OgulcanKacarr/WindowsAdvancedSystemandNetworkAcceleration/blob/main/Images/v1.png)<br><br>
+
 
