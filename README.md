@@ -150,6 +150,10 @@ Network performance on computers is limited. We do not get full performance for 
 * ![tick1](https://github.com/OgulcanKacarr/WindowsAdvancedSystemandNetworkAcceleration/blob/main/Images/tick1.png)<br><br>
 * ![tick2](https://github.com/OgulcanKacarr/WindowsAdvancedSystemandNetworkAcceleration/blob/main/Images/tick2.png)<br><br>
 
+Ve evet, hepsi bu. Artık ağınız diğer bilgisayarlardan daha hızlı.
+And yes, that's all. Now your network has more speed than other computers.
+## ===============================<br>
+
 
 
 
