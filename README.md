@@ -158,8 +158,13 @@ And yes, that's all. Now your network has more speed than other computers.
 
 Ağı çözdük, şimdi aynı şeyleri sistemimize yapalım. Bizim sistemimizde de aynı nedenlerle kısıtlı geliyor. Şimdi bu kısıtlamaları kaldıracağız. O halde tekrar Windows + R tuşlarına basarak çalıştırmayı açalım ve regedit yazalım. <br>
 We solved the network, now let's do the same things to our system. In our system, it comes restricted for the same reasons. We will now remove these restrictions. So let's open run by pressing the Windows + R key again and type regedit. <br>
-
-
+ 
+* şimdi bu konuma gidelim >>> Bilgisayar\HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\Session Manager\Memory Management <br>
+* now let's go to this location >>> Computer\HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\Session Manager\Memory Management  <br>
+* ![tick2](https://github.com/OgulcanKacarr/WindowsAdvancedSystemandNetworkAcceleration/blob/main/Images/ss1.png)<br><br>
+* şimdi burada 4gb ram ve üzeri bilgisayarlar resimdeki değeri uygulasın <br>
+* now here computers with 4gb of RAM and above apply the value in the picture <br> 
+* ![newValue1](https://github.com/OgulcanKacarr/WindowsAdvancedSystemandNetworkAcceleration/blob/main/Images/newValue1.png)<br><br>
 
 
 
