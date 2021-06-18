@@ -87,6 +87,10 @@ Network performance on computers is limited. We do not get full performance for 
 * ![value3](https://github.com/OgulcanKacarr/WindowsAdvancedSystemandNetworkAcceleration/blob/main/Images/value3.png)<br><br>
 * ![value4](https://github.com/OgulcanKacarr/WindowsAdvancedSystemandNetworkAcceleration/blob/main/Images/value4.png)<br><br>
 * ![value4.1](https://github.com/OgulcanKacarr/WindowsAdvancedSystemandNetworkAcceleration/blob/main/Images/value7.png)<br><br>
+* ![value4.2](https://github.com/OgulcanKacarr/WindowsAdvancedSystemandNetworkAcceleration/blob/main/Images/value8.png)<br><br>
+* ![value4.3](https://github.com/OgulcanKacarr/WindowsAdvancedSystemandNetworkAcceleration/blob/main/Images/value10.png)<br><br>
+* ![value4.4](https://github.com/OgulcanKacarr/WindowsAdvancedSystemandNetworkAcceleration/blob/main/Images/value11.png)<br><br>
+* ![value4.5](https://github.com/OgulcanKacarr/WindowsAdvancedSystemandNetworkAcceleration/blob/main/Images/value9.png)<br><br>
 * Şimdi "interfaces" sekmesine gidelim. Burada ip adresinizi gösteren bölümü bulun. <br>
 * Now let's go to the "interfaces" tab. Find the section that shows your ip address here. <br>
 * ![interfaces](https://github.com/OgulcanKacarr/WindowsAdvancedSystemandNetworkAcceleration/blob/main/Images/interfaces.png)<br><br>
