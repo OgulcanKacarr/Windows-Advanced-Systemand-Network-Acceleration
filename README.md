@@ -100,8 +100,10 @@ Network performance on computers is limited. We do not get full performance for 
 * ![value6](https://github.com/OgulcanKacarr/WindowsAdvancedSystemandNetworkAcceleration/blob/main/Images/value6.png)<br><br>
 * şimdi komut satırını açın ve resimlerde gördüğünüz komutları girin <br>
 * now open the command line and enter the commands you see in the pictures <br>
-* netsh int tcp set global dca=enable
+* "netsh int tcp set global dca=enable"
 * ![cmd1](https://github.com/OgulcanKacarr/WindowsAdvancedSystemandNetworkAcceleration/blob/main/Images/comman1.png)<br><br>
+* "netsh int tcp set global netdma=enable"
+* ![cmd2](https://github.com/OgulcanKacarr/WindowsAdvancedSystemandNetworkAcceleration/blob/main/Images/command2.png)<br><br>
 
 
 
