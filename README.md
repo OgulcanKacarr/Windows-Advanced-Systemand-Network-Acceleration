@@ -191,6 +191,6 @@ We solved the network, now let's do the same things to our system. In our system
 * Şimdi komut satırını açalım ve "msconfig" yazalım. <br>
 * Now let's open the command line and type "msconfig" <br>
 * ![newValue7](https://github.com/OgulcanKacarr/WindowsAdvancedSystemandNetworkAcceleration/blob/main/Images/newValue7.png)<br><br>
-* resimdeki işlemleri sisteminize göre en yüksek yapın <br>
-* make the operations on the picture the highest according to your system <br>
+* resimdeki işlemleri sisteminize göre en yüksek yapın ve bilgisayarınızı yeniden başlatın <br>
+* make the processes in the picture the highest according to your system and restart your computer <br>
 * ![newValue8](https://github.com/OgulcanKacarr/WindowsAdvancedSystemandNetworkAcceleration/blob/main/Images/newValue8.png)<br><br>
