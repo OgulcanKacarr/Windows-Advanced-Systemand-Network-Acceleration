@@ -65,7 +65,7 @@ Open cmd and enter the command "cipher /w:c". So your c disk will get rid of thi
 Bilgisayarlarda ağ performansı sınırlıdır. Hiçbir işletim sisteminde ağ ortamı için tam performans alamıyoruz. Bunun temel nedeni RFC beyanlarına uymaktır. Başka bir deyişle, dünya çapında ağ hakkında yapılan yorumları değerlendirerek karar verilen bazı ifadeler vardır ve bilgisayarlar da bu açıklamada alınan kararları uygular. Bu durum ağlarda tam performans almamızı kısıtlıyor. Başka bir deyişle, RFC her zaman performanstan çok kararlılığı vurgular. Başka bir deyişle, RFC'nin her şeyin hızlı olmasını her şeyin yolunda olmasını tercih ettiğini söyleyebiliriz. Windows, yakında yapacağımız eylemleri önerir. Ancak, bunları varsayılan olarak uygulamaz. Bunun nedeni, az önce söylendiği gibi RFC kararlarına bağlı kalmasıdır. <br>
 
 Network performance on computers is limited. We do not get full performance for network environment in any operating system. The main reason for this is to comply with the RFC declarations. In other words, there are some statements that are decided by evaluating the comments made about the world-wide network, and computers also implement the decisions taken in this statement. This situation limits us to get full performance on networks. In other words, RFC always emphasizes stability over performance. In other words, we can say that the RFC preferred everything to be fine over everything being fast. Windows itself suggests the actions that we will do soon. However, it does not implement them by default. The reason for this is that it adheres to RFC decisions, as it has just been said. <br>
-
+##Tcpip\Parameters Folders
 * şimdi windows + R yaparak "run"u açalım ve "regedit" yazalım <br>
 * now let's open "run" by doing windows + R, and type "regedit" <br>
 *  ![regedit](https://github.com/OgulcanKacarr/WindowsAdvancedSystemandNetworkAcceleration/blob/main/Images/regedit.png)<br><br>
@@ -95,6 +95,7 @@ Network performance on computers is limited. We do not get full performance for 
 * ![value4.7](https://github.com/OgulcanKacarr/WindowsAdvancedSystemandNetworkAcceleration/blob/main/Images/value13.png)<br><br>
 * ![value4.8](https://github.com/OgulcanKacarr/WindowsAdvancedSystemandNetworkAcceleration/blob/main/Images/value14.png)<br><br>
 * ![value4.9](https://github.com/OgulcanKacarr/WindowsAdvancedSystemandNetworkAcceleration/blob/main/Images/value15.png)<br><br>
+##Interfaces Folders
 * Şimdi "interfaces" sekmesine gidelim. Burada ip adresinizi gösteren bölümü bulun. <br>
 * Now let's go to the "interfaces" tab. Find the section that shows your ip address here. <br>
 * ![interfaces](https://github.com/OgulcanKacarr/WindowsAdvancedSystemandNetworkAcceleration/blob/main/Images/interfaces.png)<br><br>
@@ -104,6 +105,7 @@ Network performance on computers is limited. We do not get full performance for 
 * ![value6](https://github.com/OgulcanKacarr/WindowsAdvancedSystemandNetworkAcceleration/blob/main/Images/value6.png)<br><br>
 * ![value5.1](https://github.com/OgulcanKacarr/WindowsAdvancedSystemandNetworkAcceleration/blob/main/Images/value16.png)<br><br>
 * ![value6.1](https://github.com/OgulcanKacarr/WindowsAdvancedSystemandNetworkAcceleration/blob/main/Images/value17.png)<br><br>
+##COMMANDS
 * şimdi komut satırını açın ve resimlerde gördüğünüz komutları girin <br>
 * now open the command line and enter the commands you see in the pictures <br>
 * "netsh int tcp set global dca=enable"
@@ -114,6 +116,7 @@ Network performance on computers is limited. We do not get full performance for 
 * ![cmd3](https://github.com/OgulcanKacarr/WindowsAdvancedSystemandNetworkAcceleration/blob/main/Images/command4.png)<br><br>
 * "netsh int tcp set supplemental custom congestionprovider=ctcp"
 * ![cmd4](https://github.com/OgulcanKacarr/WindowsAdvancedSystemandNetworkAcceleration/blob/main/Images/command5.png)<br><br>
+##Tcpip\ServiceProvider Folders
 * şimdi bu konuma gidin > Bilgisayar\HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\Tcpip\ServiceProvider <br>
 * now go to this location > Computer\HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\Tcpip\ServiceProvider <br>
 * ![cmd4](https://github.com/OgulcanKacarr/WindowsAdvancedSystemandNetworkAcceleration/blob/main/Images/dnss.png)<br><br>
@@ -123,6 +126,7 @@ Network performance on computers is limited. We do not get full performance for 
 * ![dns2](https://github.com/OgulcanKacarr/WindowsAdvancedSystemandNetworkAcceleration/blob/main/Images/dns2.png)<br><br>
 * ![dns3](https://github.com/OgulcanKacarr/WindowsAdvancedSystemandNetworkAcceleration/blob/main/Images/dns3.png)<br><br>
 * ![dns4](https://github.com/OgulcanKacarr/WindowsAdvancedSystemandNetworkAcceleration/blob/main/Images/dns4.png)<br><br>
+##Microsoft\Windows\ Folders
 * şimdi bu konuma gidin > Bilgisayar\HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft\Windows\ <br>
 * now navigate to this location > Computer\HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft\Windows\ <br>
 * burada "Psched" adında bir klasör oluşturun. <br>
@@ -131,6 +135,7 @@ Network performance on computers is limited. We do not get full performance for 
 * resimlerdeki değerleri eklemeye devam edin. <br>
 * keep adding the values in the pictures. <br>
 * ![psc2](https://github.com/OgulcanKacarr/WindowsAdvancedSystemandNetworkAcceleration/blob/main/Images/psc2.png)<br><br>
+##\Services\Tcp Folders
 * şimdi bu konuma gidin >>> Bilgisayar\HMAKEY_CHINE\SYSTEM\CurrentControlSet\Services\Tcp <br>
 * now go to this location >>> Computer\HMAKEY_CHINE\SYSTEM\CurrentControlSet\Services\Tcp <br> 
 * burada "QoS" adında bir klasör oluşturun. <br>
@@ -142,6 +147,7 @@ Network performance on computers is limited. We do not get full performance for 
 * şimdi komut satırını açın ve bu komutu girin >>> netsh int tcp set global autotuninglevel=disabled <br>
 * now open command line and enter this command >>> netsh int tcp set global autotuninglevel=disabled <br>
 * ![tcp2](https://github.com/OgulcanKacarr/WindowsAdvancedSystemandNetworkAcceleration/blob/main/Images/command6.png)<br><br>
+##Programlar ve Özellikler 
 * şimdi bu konuma gidin >>> Denetim Masası\Programlar\Programlar ve Özellikler <br>
 * now go to this location >>> Control Panel\Programs\Programs and Features <br>
 * ![controlp1](https://github.com/OgulcanKacarr/WindowsAdvancedSystemandNetworkAcceleration/blob/main/Images/controlp1.png)<br><br>
