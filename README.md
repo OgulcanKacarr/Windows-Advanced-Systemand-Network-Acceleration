@@ -142,6 +142,13 @@ Network performance on computers is limited. We do not get full performance for 
 * şimdi komut satırını açın ve bu komutu girin >>> netsh int tcp set global autotuninglevel=disabled <br>
 * now open command line and enter this command >>> netsh int tcp set global autotuninglevel=disabled <br>
 * ![tcp2](https://github.com/OgulcanKacarr/WindowsAdvancedSystemandNetworkAcceleration/blob/main/Images/command6.png)<br><br>
+* şimdi bu konuma gidin >>> Denetim Masası\Programlar\Programlar ve Özellikler <br>
+* now go to this location >>> Control Panel\Programs\Programs and Features <br>
+* ![controlp1](https://github.com/OgulcanKacarr/WindowsAdvancedSystemandNetworkAcceleration/blob/main/Images/controlp1.png)<br><br>
+* sonra resimlerdeki kutuları işaretleyin <br>
+* then tick the boxes on the pictures <br>
+* ![tick1](https://github.com/OgulcanKacarr/WindowsAdvancedSystemandNetworkAcceleration/blob/main/Images/tick1.png)<br><br>
+* ![tick2](https://github.com/OgulcanKacarr/WindowsAdvancedSystemandNetworkAcceleration/blob/main/Images/tick2.png)<br><br>
 
 
 
