@@ -165,7 +165,14 @@ We solved the network, now let's do the same things to our system. In our system
 * şimdi burada 4gb ram ve üzeri bilgisayarlar resimdeki değeri uygulasın <br>
 * now here computers with 4gb of RAM and above apply the value in the picture <br> 
 * ![newValue1](https://github.com/OgulcanKacarr/WindowsAdvancedSystemandNetworkAcceleration/blob/main/Images/newValue1.png)<br><br>
-
+* ![newValue1](https://github.com/OgulcanKacarr/WindowsAdvancedSystemandNetworkAcceleration/blob/main/Images/newValue2.png)<br><br>
+* Şimdiki işlem için biraz matematik yapacağız. <br>
+* We're going to do a little math for the current operation. <br>
+* mevcut RAM * 1024 * 1024 * 128  sonuç = 536.870.912 <br>
+* Available RAM * 1024 * 1024 * 128 result = 536.870.912 <br> 
+* Bu hesaptan sonra resimdeki işlemi yapabilirsiniz. <br> 
+* After this account, you can do the action in the picture. <br>
+* ![newValue3](https://github.com/OgulcanKacarr/WindowsAdvancedSystemandNetworkAcceleration/blob/main/Images/newValue3.png)<br><br>
 
 
 
