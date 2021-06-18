@@ -25,9 +25,10 @@
 ## ===============================<br>
 ## (Background image removal) Arkaplan resmini kaldırma
 
-* Bir masaüstü arka plan resmi kullanıyorsanız, onu kullanmanıza gerek yoktur. Çünkü masaüstünüzü başka bir yerden açmak istediğinizde, pencereler açmak istediğiniz görüntüyü bulduktan sonra size masaüstünü gösterecektir. Bu gereksiz ve performansı düşüren bir süreçtir. Sadece siyah arka plan kullan
+* Bir masaüstü arka plan resmi kullanıyorsanız, onu kullanmanıza gerek yoktur. Çünkü masaüstünüzü başka bir yerden açmak istediğinizde, Windows açmak istediğiniz görüntüyü bulduktan sonra size masaüstünü gösterecektir. Bu gereksiz ve performansı düşüren bir süreçtir. Sadece siyah arka plan kullanın. Ve Windows'u her yerden karanlık moda alın veya her şeyi siyah kullanın.
 
-* If you are using a desktop background image, you don't need to use it. Because when you want to open your desktop from another place, windows will show you the desktop after finding the image you want to open. This is an unnecessary and performance-degrading process. Just use black background
+
+* If you are using a desktop background image, you don't need to use it. Because when you want to open your desktop from another place, windows will show you the desktop after finding the image you want to open. This is an unnecessary and performance-degrading process. Just use black background. and put windows in dark mode from everywhere or use everything in black.
 ## ===============================<br>
 ## (Data cleaning) Veri Temizleme
 
