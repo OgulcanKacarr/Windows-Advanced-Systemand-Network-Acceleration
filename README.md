@@ -228,5 +228,11 @@ Yes, let's talk about security-related transactions. <br>
 * resimlerdeki değerleri eklemeye devam edin. <br>
 * keep adding the values in the pictures. <br>
 * ![v3](https://github.com/OgulcanKacarr/WindowsAdvancedSystemandNetworkAcceleration/blob/main/Images/v3.png)<br><br>
+# REMOTE ACCESS DISABLE <br>
+* şimdi bu konuma gidelim >>> Bilgisayar\HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\RemoteRegistry <br>
+* now let's go to this location >>> Computer\HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\RemoteRegistry <br>
+* resimlerdeki değerleri eklemeye devam edin. <br>
+* keep adding the values in the pictures. <br>
+* ![v3](https://github.com/OgulcanKacarr/WindowsAdvancedSystemandNetworkAcceleration/blob/main/Images/v4.png)<br><br>
 
 
