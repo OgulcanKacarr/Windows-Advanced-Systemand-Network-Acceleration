@@ -139,6 +139,10 @@ Network performance on computers is limited. We do not get full performance for 
 * resimlerdeki değerleri eklemeye devam edin. <br>
 * keep adding the values in the pictures. <br>
 * ![tcp2](https://github.com/OgulcanKacarr/WindowsAdvancedSystemandNetworkAcceleration/blob/main/Images/tcp2.png)<br><br>
+* şimdi komut satırını açın ve bu komutu girin >>> netsh int tcp set global autotuninglevel=disabled <br>
+* now open command line and enter this command >>> netsh int tcp set global autotuninglevel=disabled <br>
+* ![tcp2](https://github.com/OgulcanKacarr/WindowsAdvancedSystemandNetworkAcceleration/blob/main/Images/command6.png)<br><br>
+
 
 
 
