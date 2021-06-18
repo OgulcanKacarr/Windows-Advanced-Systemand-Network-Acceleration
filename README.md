@@ -197,3 +197,8 @@ We solved the network, now let's do the same things to our system. In our system
 * şimdi yeni bir komut satırı açın ve bu komutu girin >>> Rundll32.exe advapi32.dll.ProcessIdleTasks <br>
 * now open a new command line and enter this command >>> Rundll32.exe advapi32.dll.ProcessIdleTasks <br>
 * ![newValue9](https://github.com/OgulcanKacarr/WindowsAdvancedSystemandNetworkAcceleration/blob/main/Images/newValue9.png)<br><br>
+
+## ===============================<br>
+## evet, sistemimiz artık hem network hem de sistemsel olarak daha hızlı çalışacak. <br>
+## yes, our system will now perform faster both network and systemically.
+
