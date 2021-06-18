@@ -178,6 +178,10 @@ We solved the network, now let's do the same things to our system. In our system
 * resimlerdeki değerleri eklemeye devam edin. <br>
 * keep adding the values in the pictures. <br>
 * ![newValue4](https://github.com/OgulcanKacarr/WindowsAdvancedSystemandNetworkAcceleration/blob/main/Images/newValue4.png)<br><br>
-
+* şimdi bu konuma gidelim >>> Bilgisayar\HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\PriorityControl <br>
+* now let's go to this location >>> Computer\HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\PriorityControl <br>
+* resimlerdeki değerleri eklemeye devam edin. <br>
+* keep adding the values in the pictures. <br>
+* ![newValue5](https://github.com/OgulcanKacarr/WindowsAdvancedSystemandNetworkAcceleration/blob/main/Images/newValue5.png)<br><br>
 
 
