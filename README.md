@@ -69,3 +69,8 @@ Network performance on computers is limited. We do not get full performance for 
 * şimdi windows + R yaparak "run"u açalım ve "regedit" yazalım <br>
 * now let's open "run" by doing windows + R, and type "regedit" <br>
 *  ![regedit](https://github.com/OgulcanKacarr/WindowsAdvancedSystemandNetworkAcceleration/blob/main/Images/regedit.png)<br><br>
+*  Öncelikle önlem almak için regedit dosyalarımızın yedeğini alalım. <br>
+*  First of all, let's take a backup of our regedit files to take precautions. <br>
+* Dosya > ver > masaüstüne kaydet <br>
+* File > export > save to desktop <br>
+* *  ![backup](https://github.com/OgulcanKacarr/WindowsAdvancedSystemandNetworkAcceleration/blob/main/Images/backup.png)<br><br>
