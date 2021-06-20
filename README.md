@@ -256,7 +256,13 @@ Now let's do some things about Windows firewall. <br>
 # (system problems) Sistem Sorunları
 bilgisayarda herhangi bir sorun olup olmadığını ve çözülüp çözülmediğini görmek için komut satırı ekranına bu komutu girin; <br>
 enter this command on the command line screen to see if there is any problem with the computer and if it is fixed; <br>
-"dism /online /cleanup-image /scanhealth" <br>
-![cmd24](https://user-images.githubusercontent.com/63792003/122685788-3bd72100-d216-11eb-8a99-b4a15c7f88e5.png)
+* "dism /online /cleanup-image /scanhealth" <br>
+* ![cmd24](https://user-images.githubusercontent.com/63792003/122685788-3bd72100-d216-11eb-8a99-b4a15c7f88e5.png) <br> <br>
+Sistemde bir hata varsa veya yoksa bu komutu kullanarak düzeltebiliriz. <br>
+If there is an error in the system or not, we can use this command to fix it. <br>
+* "sfc /scannow"
+* ![cmd24](https://user-images.githubusercontent.com/63792003/122685908-01ba4f00-d217-11eb-831f-e7168f6b69c4.png)
+
+
 
 
