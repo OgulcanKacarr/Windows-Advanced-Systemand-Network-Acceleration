@@ -261,12 +261,12 @@ enter this command on the command line screen to see if there is any problem wit
 Sistemde bir hata varsa veya yoksa bu komutu kullanarak düzeltebiliriz. <br>
 If there is an error in the system or not, we can use this command to fix it. <br>
 * "sfc /scannow" <br>
-* "bootrec /fixboot" <br>
 * ![cmd24](https://user-images.githubusercontent.com/63792003/122685908-01ba4f00-d217-11eb-831f-e7168f6b69c4.png) <br> <br>
 
 Eğer windows açılmıyorsa iso dosyası ile açtığınız cmd ekranına bu komutu giriniz. Sorununuz büyük ihtimalle çözülecektir. <br>
 If windows does not open, enter this command on the cmd screen you opened with an iso file. Your problem will most likely be resolved. <br>
-"bootrec /fixmbr" <br>
+* "bootrec /fixmbr" <br>
+* "bootrec /fixboot" <br>
 
 
 
