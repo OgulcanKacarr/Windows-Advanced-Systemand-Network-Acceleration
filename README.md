@@ -1,5 +1,6 @@
 
 # advanced network and system acceleration for Windows 10
+# Windows 10 için gelişmiş ağ ve sistem hızlandırmarı
 
 ## (Windows Check for Updates) Windows Güncellemeleri kontrol et
 
