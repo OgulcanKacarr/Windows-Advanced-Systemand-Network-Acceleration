@@ -267,7 +267,7 @@ Eğer windows açılmıyorsa iso dosyası ile açtığınız cmd ekranına bu ko
 If windows does not open, enter this command on the cmd screen you opened with an iso file. Your problem will most likely be resolved. <br>
 * "bootrec /fixmbr" <br>
 * "bootrec /fixboot" <br>
-* bootrec /rebuild <br>
+* "bootrec /rebuild" <br>
 
 
 
